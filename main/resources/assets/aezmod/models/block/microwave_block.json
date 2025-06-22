@@ -1,0 +1,11 @@
+{
+  "parent" :"minecraft:block/cube",
+  "textures": {
+    "up":    "aezmod:block/microwave_block",
+    "down":  "aezmod:block/microwave_block",
+    "north": "aezmod:block/microwave_block_north",
+    "south": "aezmod:block/microwave_block",
+    "west":  "aezmod:block/microwave_block",
+    "east":  "aezmod:block/microwave_block"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": { "item": "aezmod:the_void" },
+    "B": { "item": "minecraft:beacon" },
+    "C": { "item": "minecraft:netherite_ingot" }
+  },
+  "pattern": [
+    "CBC",
+    "CAC",
+    "CCC"
+  ],
+
+  "result": {
+    "count": 1,
+    "id": "aezmod:the_void_block"
+  }
+}

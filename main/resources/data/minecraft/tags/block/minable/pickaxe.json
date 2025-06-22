@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "aezmod:ruby_ore",
+    "aezmod:deepslate_ruby_ore",
+    "aezmod:microwave_block",
+    "aezmod:the_void_block"
+  ]
+}

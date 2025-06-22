@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": { "item": "minecraft:apple" },
+    "B": { "item": "minecraft:stick" },
+    "C": { "item": "minecraft:netherite_ingot" },
+    "D": { "item": "minecraft:beacon" }
+  },
+  "pattern": [
+    "BAB",
+    "CDC",
+    "BCB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "aezmod:the_void"
+  }
+}

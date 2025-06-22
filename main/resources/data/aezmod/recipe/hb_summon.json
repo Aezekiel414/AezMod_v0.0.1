@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": { "item": "minecraft:flint_and_steel" },
+    "B": { "item": "minecraft:netherrack" },
+    "C": { "item": "minecraft:redstone_torch" },
+    "D": { "item": "minecraft:gold_block" }
+  },
+  "pattern": [
+    " A ",
+    "CBC",
+    "DDD"
+  ],
+
+  "result": {
+    "count": 1,
+    "id": "aezmod:hb_summon"
+  }
+}
+

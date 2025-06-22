@@ -1,0 +1,6 @@
+{
+  "parent" :"minecraft:block/cube_all",
+  "textures": {
+    "all": "aezmod:block/the_void_block"
+  }
+}
