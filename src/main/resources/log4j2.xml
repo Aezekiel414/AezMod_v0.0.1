@@ -1,0 +1,3 @@
+<Logger name="net.minecraft.server.packs" level="debug" additivity="false">
+  <AppenderRef ref="Console"/>
+</Logger>
